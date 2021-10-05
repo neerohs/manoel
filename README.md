@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="Gazeta Closed Caption FHD¹" tvg-logo="http://fivetv.xyz/logos/globo.png" group-title="CANAIS | GLOBO",Gazeta Closed Caption FHD¹
 http://fenixuhd.xyz:80/manoel8560/800900500/138384
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="Gazeta Closed Caption HD¹" tvg-logo="http://fivetv.xyz/logos/globo.png" group-title="CANAIS | GLOBO",Gazeta Closed Caption HD¹
